@@ -17,5 +17,5 @@ emp1 = Employee("Harry", 12000)
 emp1.show()
 
 # create second object
-emp2 = Employee("Emma", 10000)
+emp2 = Employee("Emma1", 10000)
 emp2.show()
